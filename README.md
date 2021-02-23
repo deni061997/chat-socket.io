@@ -21,7 +21,7 @@
 
 ## Главная страница
 
-[!текст](https://github.com/deni061997/chat-socket.io/blob/main/client/public/images/chat-main.png)
+![текст](https://github.com/deni061997/chat-socket.io/blob/main/client/public/images/chat-main.png)
 
 ## Страница открытого чата между двумя собеседниками
 

@@ -25,4 +25,4 @@
 
 ## Страница открытого чата между двумя собеседниками
 
-[!текст](https://github.com/deni061997/chat-socket.io/blob/main/client/public/images/chat-chatwindow.png)
+![текст](https://github.com/deni061997/chat-socket.io/blob/main/client/public/images/chat-chatwindow.png)
